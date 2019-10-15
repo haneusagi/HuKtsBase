@@ -8,6 +8,6 @@ args.forEach {
 }
 println("パラメータは以上です。")
 
-// hello world を評する。
+// hello world を表示する。
 HuCommon1.outMessage("hello world by HuCommon1.")
 HuCommon2.outMessage("hello world by HuCommon2.")
